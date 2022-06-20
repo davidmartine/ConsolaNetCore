@@ -1,2 +1,2 @@
-# ConsolaNetCore
+# NetCore
 Intruccion a NetCore
