@@ -1,0 +1,2 @@
+# ConsolaNetCore
+Intruccion a NetCore
